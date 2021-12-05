@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Fibonacciseries {
 	
 	public static void main(String[] args) {
+		
 		System.out.println("How many fibonacci elemnets to print?");
 		
 		Scanner sc = new Scanner(System.in);
