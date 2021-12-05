@@ -17,7 +17,6 @@ public class PerfectNumber {
             }
             i++;
         }
-         // Comparing sum with the entered number
 
         if (sum == n) {
 
