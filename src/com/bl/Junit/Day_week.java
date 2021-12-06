@@ -2,7 +2,7 @@ package com.bl.Junit;
 
 import java.util.Scanner;
 
-public class Day_weak {
+public class Day_week {
 	 private static int day;
 	    public static void main(String[] args) {
 	        // inputs
